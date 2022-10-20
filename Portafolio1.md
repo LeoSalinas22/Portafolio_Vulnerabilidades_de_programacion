@@ -1,4 +1,7 @@
-Curso: Aprende a programar con Python de MasterMind Modulo 1 Primeros pasos:
+Curso: Aprende a programar con Python 
+MasterMind Módulo 1 Primeros pasos:
+
+La programación es una forma en la que nos podemos comunicar con las máquinas y esto lo podemos llegar a hacer con lenguajes como python, los cuales nos sirven como interpretes para poder comunicarnos con esta.
 
 Programa 1:
 
